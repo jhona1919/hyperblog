@@ -20,9 +20,9 @@ body
 
 #cabecera #tagline
 {
-    padding: 0 0 0 lem;
+    padding: 0 0 0 1cm;
     font-weight: normal;
-    font-size: 0.8cm;
+    font-size: 0.5cm;
 }
 
 #container
@@ -41,6 +41,6 @@ body
 
 #post
 {
-    padding: lem;
+    padding: 1cm;
 }
 
